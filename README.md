@@ -5,6 +5,8 @@ Dynamic Bundle
 2. To-Do, generate dynamic bundle
 
 Steps to Run:
+-------------
+
 1. Install ruby 2.0 and above
 2. gem install rspec
 3. Run the test case
