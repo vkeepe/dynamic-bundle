@@ -1,0 +1,79 @@
+{
+    "plans": [
+        {
+            "name": "P1",
+            "features": [
+                "F1",
+                "F2"
+            ],
+            "cost": 2.00
+        },
+        {
+            "name": "P2",
+            "features": [
+                "F1",
+                "F2",
+                "F3"
+            ],
+            "cost": 7.50
+        },
+        {
+            "name": "P3",
+            "features": [
+                "F1",
+                "F2",
+                "F3",
+                "F4"
+            ],
+            "cost": 10.00
+        },
+        {
+            "name": "P4",
+            "features": [
+                "F1",
+                "F2",
+                "F3",
+                "F4",
+                "F5"
+            ],
+            "cost": 12.50
+        },
+        {
+            "name": "P5",
+            "features": [
+                "F6",
+                "F5",
+                "F4",
+                "F3",
+                "F2",
+                "F1"
+            ],
+            "cost": 12.50
+        },
+        {
+            "name": "P6",
+            "features": [
+                "F3",
+                "F1"
+            ],
+            "cost": 2.00
+        },
+        {
+            "name": "P7",
+            "features": [
+                "F4",
+                "F6"
+            ],
+            "cost": 3.00
+        },
+        {
+            "name": "P8",
+            "features": [
+                "F5",
+                "F7",
+                "F8"
+            ],
+            "cost": 7.00
+        }
+    ]
+}
